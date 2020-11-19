@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(245 246 247);
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+#language{
+    margin-top:1%;
+    margin-left:70%;
+}
+img{
+    margin-top:60px;
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#log_in{
+    width:350px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#loginbutton{
+    background-color: #03c75b;
+    width:350px;
+    margin-left:auto;
+    margin-right:auto;
+}
+.blind{
+    display : hidden;
+}
